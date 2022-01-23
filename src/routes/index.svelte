@@ -19,7 +19,7 @@
                 Awesome Quotes
             </p>
             <div class="text-3xl text-center animate-pop container max-w-3xl">
-              <span class="before:block before:absolute before:-inset-4 before:bg-blue-500 before:-skew-y-2 relative inline-block">
+              <span class="before:block before:absolute before:-inset-4 before:bg-blue-500 before:-skew-y-2 before:rounded-lg relative inline-block">
                 <p class="relative text-white">
                     {quote['text']}
                 </p>
